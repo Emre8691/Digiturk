@@ -1,2 +1,2 @@
-# Digiturk
-Digiturk test ödev
+
+test ödev
